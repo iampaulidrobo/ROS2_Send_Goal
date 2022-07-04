@@ -25,3 +25,5 @@ In terminal-3:
 
 ```bash
   ros2 run send_goal GoalCoordinate 
+
+![Screenshot from 2022-07-04 21-17-25](https://user-images.githubusercontent.com/22745024/177188221-4a7804b5-50fb-4ec0-9bee-2f06bd36234a.png)
